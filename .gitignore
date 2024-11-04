@@ -8,8 +8,6 @@
 # dependencies
 /node_modules
 
-#audios https://drive.google.com/drive/folders/14o3ZrGCCODysZxd3M_dPSoEEEIvBJkg7
-/src/assets/audios
 
 # IDEs and editors
 /.idea
